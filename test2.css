@@ -1,0 +1,31 @@
+form{
+    background-color: #3d0730;
+    margin-left: 100px;
+    width: 50%;
+    padding: 40px;
+
+}
+
+button{
+    background-color: white;
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 100px;
+}
+label{
+    color: white;
+    margin-left:40px;
+    float: left;
+    text-align: left;
+    width:20%;
+}
+p{
+    margin-left: 40px;
+    color: white;
+}
+#about{
+    height: 50px;
+}
